@@ -1,2 +1,3 @@
 # Centralized_Transportation_System_Frontend
 This is the main project repository
+This project aims to centralize tansportation system in Ebonyi state. This application provides users with daily update of transportation cost of different companies in ebonyi state with there time of departure and expected time of arrival to there destination. This application will provide a web application to registered companies. This companies will update their transportaion activities using the Platform to help users have an informed travel decision. This Application will give State Government insight on transportation activities and will use it to monitor tax invaders.
